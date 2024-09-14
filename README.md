@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Kristina 👋
+## I am a third-year student at the Faculty of Mathematics and Informatics at Sofia University "St. Kliment Ohridski".
 
 <!--
 **kristinaradeva1/kristinaradeva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
