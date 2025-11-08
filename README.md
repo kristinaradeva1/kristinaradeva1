@@ -1,5 +1,5 @@
 ## Hi, I'm Kristina 👋
-I am a third-year student at the Faculty of Mathematics and Informatics at Sofia University "St. Kliment Ohridski".
+I am a fourth-year student at the Faculty of Mathematics and Informatics at Sofia University "St. Kliment Ohridski".
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kristinaradeva1)](https://git.io/streak-stats)
 <!--
